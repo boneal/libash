@@ -6,7 +6,7 @@ Simply stuffing your code with echo statements hardly counts as logging.
 
 But the good news is this log function is easy to use!
 
-Features:
+**Features:**
 *	Allows multiple logs in the same script
 *	Allows each of those logs to have set log levels (0-5)
 *	Allows you to push messages to a log file, syslog, or echo them out depending on your need
