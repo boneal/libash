@@ -8,7 +8,7 @@ But the good news is this log function is easy to use!
 
 **Features:**
 *	Allows multiple logs in the same script
-*	Allows each of those logs to have set log levels (0-5)
+*	Allows each of those logs to have flexable log levels (0-5)
 *	Allows you to push messages to a log file, syslog, or echo them out depending on your need
 *	Automatically pushes critical error to sysloger 
 *	Provides a bash like stack trace function for debugging complex scripts
