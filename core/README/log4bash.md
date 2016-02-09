@@ -1,7 +1,9 @@
-About 5 years ago I moved from a Java and C++ shop to a team where I was told I could use PHP or bash. I chose bash. But I could not find a decent log function! So I made one.
-Simply stuffing your code with echo statements hardly counts as logging. 
-1.	It prevents you from being able to return values to the caller of a function
-2.	It makes it hard to manage log levels, dialing up when debugging, dialing down for prod
+About 5 years ago I moved from a Java and C++ shop to a team where I was told I could use PHP or bash. I chose bash over PHP any day. But I could not find a decent log function! So I made one.
+Simply stuffing your code with echo statements hardly counts as logging.
+
+1. It prevents you from being able to return values to the caller of a function
+2. It makes it hard to manage log levels, dialing up when debugging, dialing down for prod
+
 But the good news is this log function is easy to use!
 
 Features:
