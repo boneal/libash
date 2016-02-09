@@ -5,14 +5,14 @@ Simply stuffing your code with echo statements hardly counts as logging.
 But the good news is this log function is easy to use!
 
 Features:
-..*	Allows multiple logs in the same script
-..*	Allows each of those logs to have set log levels (0-5)
-..*	Allows you to push messages to a log file, syslog, or echo them out depending on your need
-..*	Automatically pushes critical error to sysloger 
-..*	Provides a bash like stack trace function for debugging complex scripts
-..*	Allows you to specify individual files or a single combined log file across multiple scripts
-..*	Allows you to automatically tag log entries with log level, pid, data/time, and custom notation for calling function
-..*	Allows you to produce neatly organized multi line log entries even if those entries are not pushed in the same block of code. 
-..*	Automatically creates log directories / files on initial deploy
-..*	It is incredibly easy to use
+*	Allows multiple logs in the same script
+*	Allows each of those logs to have set log levels (0-5)
+*	Allows you to push messages to a log file, syslog, or echo them out depending on your need
+*	Automatically pushes critical error to sysloger 
+*	Provides a bash like stack trace function for debugging complex scripts
+*	Allows you to specify individual files or a single combined log file across multiple scripts
+*	Allows you to automatically tag log entries with log level, pid, data/time, and custom notation for calling function
+*	Allows you to produce neatly organized multi line log entries even if those entries are not pushed in the same block of code. 
+*	Automatically creates log directories / files on initial deploy
+*	It is incredibly easy to use
 
